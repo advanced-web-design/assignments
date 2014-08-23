@@ -1,6 +1,8 @@
 assignments
 ===========
 
+- [Assignment 1: Due 08/28](#assignment-1)
+
 ## Assignment 1
 
 **Due: Thursday 08/28** 
