@@ -26,9 +26,8 @@ assignments
 	- Quote
 	- Customer profile (detailed description)
 	- Image (sketch or photo)
-
-For a good review of personas, read http://www.smashingmagazine.com/2014/08/06/a-closer-look-at-personas-part-1/
-
 2. Turn 3 of the story sentences you wrote in class into *1 paragraph long* stories. These stories should describe the problems a potential user faces that would cause them to want to use our site.
+
+*For a good review of personas, read http://www.smashingmagazine.com/2014/08/06/a-closer-look-at-personas-part-1/*
 
  
