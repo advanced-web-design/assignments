@@ -34,7 +34,8 @@ assignments
 ## Assignment 3
 
 1. Read:
-	- *Don't Make Me Think*, Chapters 1 & 2
+	- *Don't Make Me Think*, Chapter 1: Don't Make Me Think
+	- *Don't Make Me Think*, Chapter 2: How We Really Use the Web
 2. Do:
 	- **Create a site map** for your proposed Geno's pizza redesign
 	- Complete **interface sketches** for each page type of your Geno's pizza redesign 	
