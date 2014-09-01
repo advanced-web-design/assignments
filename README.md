@@ -38,6 +38,7 @@ assignments
 	- *Don't Make Me Think*, Chapter 2: How We Really Use the Web
 2. Do:
 	- **Create a site map** for your proposed Geno's pizza redesign
-	- Complete **interface sketches** for each page type of your Geno's pizza redesign 	
+	- Complete **interface sketches** for each page type of your Geno's pizza redesign
+- **Write a 500 word (or more) summary** of some of the key lessons found in chapters 1 & 2 of *Don't Make Me Think.* These can be typed and emailed to me or (even better) written as a blog post.
 
  
