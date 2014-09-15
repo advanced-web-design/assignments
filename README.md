@@ -3,7 +3,8 @@ assignments
 
 - [Assignment 1: Due 08/28](#assignment-1)
 - [Assignment 2: Due 09/04](#assignment-2)
-- [Assignment 3: Due 09/16](#assignment-2)
+- [Assignment 3: Due 09/16](#assignment-3)
+- [Assignment 4: Due 09/25](#assignment-4)
 
 **Have a question about an assignment? [Create an issue!](https://github.com/advanced-web-design/assignments/issues)**
 
@@ -40,5 +41,18 @@ assignments
 	- **Create a site map** for your proposed Geno's pizza redesign
 	- Complete **interface sketches** for each page type of your Geno's pizza redesign
 - **Write a 500 word (or more) summary** of some of the key lessons found in chapters 1 & 2 of *Don't Make Me Think.* These can be typed and emailed to me or (even better) written as a blog post.
+
+## Assignment 4
+
+1. Complete static comps for the Geno’s homepage and one internal page.
+2. Read: *Don’t Make Me Think*, Chapter 3: Billboard Design 101
+3. Find an example of each of the major points in Chapter 3 and take screenshots of them. Write a brief summary of how each screenshot is a good example of one of the following:
+		- Convention
+		- Effective visual hierarchy
+		- Clearly defined page areas
+		- Obviously clickable
+		- Keep the noise down
+		- Text formatted to support scanning
+		- **BONUS** Find bad examples of the above and include screenshots and explanations of their shortcomings.   
 
  
