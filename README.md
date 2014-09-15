@@ -54,6 +54,7 @@ assignments
 	- Obviously clickable
 	- Keep the noise down
 	- Text formatted to support scanning
-	- **BONUS** Find bad examples of the above and include screenshots and explanations of their shortcomings.   
+	
+**BONUS** Find bad examples of the above and include screenshots and explanations of their shortcomings.   
 
  
