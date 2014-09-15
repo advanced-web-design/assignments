@@ -47,12 +47,12 @@ assignments
 1. Complete static comps for the Geno’s homepage and one internal page.
 2. Read: *Don’t Make Me Think*, Chapter 3: Billboard Design 101
 3. Find an example of each of the major points in Chapter 3 and take screenshots of them. Write a brief summary of how each screenshot is a good example of one of the following:
-		- Convention
-		- Effective visual hierarchy
-		- Clearly defined page areas
-		- Obviously clickable
-		- Keep the noise down
-		- Text formatted to support scanning
-		- **BONUS** Find bad examples of the above and include screenshots and explanations of their shortcomings.   
+			- Convention
+			- Effective visual hierarchy
+			- Clearly defined page areas
+			- Obviously clickable
+			- Keep the noise down
+			- Text formatted to support scanning
+			- **BONUS** Find bad examples of the above and include screenshots and explanations of their shortcomings.   
 
  
