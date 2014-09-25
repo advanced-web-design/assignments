@@ -5,6 +5,7 @@ assignments
 - [Assignment 2: Due 09/04](#assignment-2)
 - [Assignment 3: Due 09/16](#assignment-3)
 - [Assignment 4: Due 09/25](#assignment-4)
+- [Assignment 5: Due 10/01](#assignment-5)
 
 **Have a question about an assignment? [Create an issue!](https://github.com/advanced-web-design/assignments/issues)**
 
@@ -55,6 +56,12 @@ assignments
 	- Keep the noise down
 	- Text formatted to support scanning
 	
-**BONUS** Find bad examples of the above and include screenshots and explanations of their shortcomings.   
+**BONUS** Find bad examples of the above and include screenshots and explanations of their shortcomings.  
+
+## Assignment 5
+
+1. Update and complete your static comps based on peer feedback
+2. Read: *Don't Make Me Think*, Chapter 4: Animal, Vegetable, or Mineral.
+3. Write: 500 word (or more) summary of some of the key lessons found in chapters 4 of *Don't Make Me Think.* These can be typed and emailed to me or (even better) written as a blog post.
 
  
