@@ -61,7 +61,7 @@ assignments
 ## Assignment 5
 
 1. Update and complete your static comps based on peer feedback
-2. Read: *Don't Make Me Think*, Chapter 4: Animal, Vegetable, or Mineral.
-3. Write: 500 word (or more) summary of some of the key lessons found in chapters 4 of *Don't Make Me Think.* These can be typed and emailed to me or (even better) written as a blog post.
+2. Read: *Don't Make Me Think*, Chapter 4: Animal, Vegetable, or Mineral and Chapter 5: Omit ~~Needless~~ Words
+3. Write: 500 word (or more) summary of some of the key lessons found in chapters 4 & 5 of *Don't Make Me Think.* These can be typed and emailed to me or (even better) written as a blog post.
 
  
