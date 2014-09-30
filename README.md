@@ -58,6 +58,8 @@ assignments
 	
 **BONUS** Find bad examples of the above and include screenshots and explanations of their shortcomings.  
 
+[Static comp resources from class](http://advanced-web-design.github.io/slides/static-mockups.html#7)
+
 ## Assignment 5
 
 1. Update and complete your static comps based on peer feedback
