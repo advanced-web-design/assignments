@@ -5,7 +5,7 @@ assignments
 - [Assignment 2: Due 09/04](#assignment-2)
 - [Assignment 3: Due 09/16](#assignment-3)
 - [Assignment 4: Due 09/25](#assignment-4)
-- [Assignment 5: Due 10/01](#assignment-5)
+- [Assignment 5: Due 10/02](#assignment-5)
 
 **Have a question about an assignment? [Create an issue!](https://github.com/advanced-web-design/assignments/issues)**
 
