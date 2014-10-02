@@ -6,6 +6,7 @@ assignments
 - [Assignment 3: Due 09/16](#assignment-3)
 - [Assignment 4: Due 09/25](#assignment-4)
 - [Assignment 5: Due 10/02](#assignment-5)
+- [Assignment 6: Due 10/14](#assignment-6)
 
 **Have a question about an assignment? [Create an issue!](https://github.com/advanced-web-design/assignments/issues)**
 
@@ -66,4 +67,7 @@ assignments
 2. Read: *Don't Make Me Think*, Chapter 4: Animal, Vegetable, or Mineral and Chapter 5: Omit ~~Needless~~ Words
 3. Write: 500 word (or more) summary of some of the key lessons found in chapters 4 & 5 of *Don't Make Me Think.* These can be typed and emailed to me or (even better) written as a blog post.
 
+## Assignment 6
+
+Mark up and style **2** pages of your Geno's website.
  
