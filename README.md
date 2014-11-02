@@ -6,7 +6,8 @@ assignments
 - [Assignment 3: Due 09/16](#assignment-3)
 - [Assignment 4: Due 09/25](#assignment-4)
 - [Assignment 5: Due 10/02](#assignment-5)
-- [Assignment 6: Due 10/14](#assignment-6)
+- [Assignment 6: Due 10/21](#assignment-6)
+- [Final Project: Due 12/08](#final-project)
 
 **Have a question about an assignment? [Create an issue!](https://github.com/advanced-web-design/assignments/issues)**
 
@@ -69,5 +70,29 @@ assignments
 
 ## Assignment 6
 
-Mark up and style **2** pages of your Geno's website.
+Mark up and style at least **2** pages of your Geno's website. These pages are expected to be responsive and follow all of the best practices outlined throughout the semester.
+
+## Final Project
+
+For your final project, you will be working in teams of 3 (to be assigned in class). Your goal is to research, design, and develop an informational or instructional website, which will be presented to the class on the day of the final.
+
+Your presentation must include the following:
+
+- Details on research conducted at beginning of the project
+- Research results
+- Your design process (sketches, photoshop mockups, design planning, etc.)
+- User testing results (and how you incorporated those results into the finished site)
+- Demo of your site
+
+For each project, I expect the team to be divided into three roles:
+
+- User Experience Designer
+- Graphic Designer
+- Front end developer
+
+These roles mean that someone should take the **lead** in a specific area, but I expect the full team to participate. *You will be expected to assess your teammates’ overall participation in the project.*
+
+Each team should create a Github organization and create repositories for each aspect of the project. This will allow you all to collaborate as well as a single URL where you can turn in your assignments.
+
+
  
